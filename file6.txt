@@ -1,0 +1,20 @@
+file6
+
+change1
+
+
+localchange
+
+remote change
+
+
+new local change
+
+remote change 3
+
+
+new remote change
+
+new local change
+
+
