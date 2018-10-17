@@ -2,4 +2,8 @@ file1
 
 update after first commit
 
+
 remote change
+
+local change
+
